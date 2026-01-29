@@ -604,12 +604,11 @@ If given more time, these features would enhance the project:
 ## 📧 Contact
 
 For questions or feedback about this project:
-- **Email:** [Your email]
-- **LinkedIn:** [Your LinkedIn]
-- **GitHub:** [Your GitHub profile]
+- **Email:** [Soumitrasamanta69@gmail.com]
+- **LinkedIn:** [https://www.linkedin.com/in/soumitrasamanta69/]
+- **GitHub:** [https://github.com/soumitra69]
 
 ---
 
 **Built with ❤️ using React, JavaScript, Vite, and Tailwind CSS**
 
-*Assessment completed in [X hours/days] | Submission Date: [Date]*
