@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://techblog.example.com/sitemap.xml
