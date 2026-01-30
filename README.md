@@ -453,25 +453,18 @@ const categories = useMemo(() => {
 
 ### Screenshots
 
-![Performance Score](./screenshots/performance.png)
-*Performance: 95+ | Load time optimized through image compression and code splitting*
+<img width="1310" height="829" alt="Screenshot 2026-01-30 090258" src="https://github.com/user-attachments/assets/0e2918e1-803d-4f37-8a87-a8f9e5450e25" />
 
-![Accessibility Score](./screenshots/accessibility.png)
-*Accessibility: 90+ | WCAG AA compliant with proper ARIA labels and keyboard navigation*
 
-![Best Practices Score](./screenshots/best-practices.png)
-*Best Practices: 95+ | HTTPS, no console errors, modern image formats*
-
-![SEO Score](./screenshots/seo.png)
-*SEO: 100 | Complete meta tags, semantic HTML, and structured data*
+https://pagespeed.web.dev/analysis/https-tech-blog-ten-wheat-vercel-app/9bxb9xletg?form_factor=desktop[https://pagespeed.web.dev/analysis/https-tech-blog-ten-wheat-vercel-app/9bxb9xletg?form_factor=desktop]
 
 ### Scores Summary
 
 | Metric | Score | Status |
 |--------|-------|--------|
-| Performance | 95+ | ✅ Excellent |
-| Accessibility | 90+ | ✅ Excellent |
-| Best Practices | 95+ | ✅ Excellent |
+| Performance | 98+ | ✅ Excellent |
+| Accessibility | 91+ | ✅ Excellent |
+| Best Practices | 100 | ✅ Perfect |
 | SEO | 100 | ✅ Perfect |
 
 ### Key Metrics
